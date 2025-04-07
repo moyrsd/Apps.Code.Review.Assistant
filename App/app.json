@@ -1,0 +1,16 @@
+{
+    "id": "745c9dde-c4bb-4c8d-989c-256244e1d730",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Deepmoy Rudra Sarma",
+        "homepage": "deeproyrs@gmail.com",
+        "support": "deeproyrs@gmail.com"
+    },
+    "name": "Code.Review.Assisstant",
+    "nameSlug": "codereviewassisstant",
+    "classFile": "CodeReviewAssisstantApp.ts",
+    "description": "diinvfs",
+    "implements": []
+}
