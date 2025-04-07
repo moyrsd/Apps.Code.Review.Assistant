@@ -8,9 +8,9 @@
         "homepage": "deeproyrs@gmail.com",
         "support": "deeproyrs@gmail.com"
     },
-    "name": "Code.Review.Assisstant",
-    "nameSlug": "codereviewassisstant",
-    "classFile": "CodeReviewAssisstantApp.ts",
+    "name": "Code.Review.Assistant",
+    "nameSlug": "codereviewassistant",
+    "classFile": "CodeReviewAssistantApp.ts",
     "description": "diinvfs",
     "implements": []
 }
